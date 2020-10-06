@@ -1,0 +1,1 @@
+python3 demo/demo.py --config-file configs/COCO-InstanceSegmentation/mask_rcnn_R_101_FPN_3x.yaml  --input data/usopen_nadal_v0/images/00000003.png --output output --opts MODEL.WEIGHTS models/mask_rcnn_R_101_FPN_3x.pkl
